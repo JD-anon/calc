@@ -30,7 +30,7 @@ time = distance/velocity
 
 drop = elev+(.5)*(GRAV)*(time)
 
-print("Drop is " + str(drop))
+print("Drop is " + str(drop) + ' meters')
 
     #standard .308
         #MV = 2650 #fps / 807.72 m/s
